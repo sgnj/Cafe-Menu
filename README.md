@@ -1,3 +1,3 @@
-#Cafe Menu
+# Cafe Menu
 
-##Basic html and css
+Basic Cafe Menu created in basic html and css.
